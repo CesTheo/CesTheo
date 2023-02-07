@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/02ef2e35-a29c-4d47-890a-89225de96272.svg)](https://wakatime.com/@02ef2e35-a29c-4d47-890a-89225de96272)
 
 
-### Technologie 😀
+### My Stack 😀
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
