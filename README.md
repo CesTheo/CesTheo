@@ -31,4 +31,5 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="VisualStudioCode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
 </p>
