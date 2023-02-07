@@ -29,4 +29,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="VisualStudioCode" src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
 </p>
